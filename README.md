@@ -4,7 +4,7 @@
   <source media="(prefers-color-scheme: light)" srcset=https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c1/Northeastern_Universitylogo_square.png/revision/latest?cb=20201123185940>
   <img alt="Shows the Northeastern Husky." src="https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c1/Northeastern_Universitylogo_square.png/revision/latest?cb=20201123185940">
 </picture>
-Test
+Hey there! My name is Kevin Polackal and I'm a freshman enrolled at Northeastern's Khoury College of Computer Sciences
 <!--
 **kevin-polackal/kevin-polackal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
