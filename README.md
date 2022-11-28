@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://www.pngmart.com/files/6/Rocket-PNG-File.png">
+ <source media="(prefers-color-scheme: light)" srcset="https://www.pngmart.com/files/6/Rocket-PNG-File.png">
+ <img alt="Shows a rocket" src="https://www.pngmart.com/files/6/Rocket-PNG-File.png">
+</picture>
 <!--
 **kevin-polackal/kevin-polackal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
