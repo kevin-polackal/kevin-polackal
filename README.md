@@ -1,6 +1,6 @@
 ### About Me 
 
-Hey there! My name is Kevin Polackal (He/Him) and I'm a freshman enrolled at Northeastern's Khoury College of Computer Sciences. You can reach me at kevinpolackal@gmail.com
+Hey there! My name is Kevin Polackal (He/Him) and I'm a student enrolled at Northeastern's Khoury College of Computer Sciences. You can reach me at kevinpolackal@gmail.com
 <!--
 **kevin-polackal/kevin-polackal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
